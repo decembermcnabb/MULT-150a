@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 24
-  productGUID: 0a0cae9cbb015af4d97f5ed7f1d377b3
+  productGUID: ce3fc0042f4546b46b66a5542474a05b
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: dmcnabb_kchao_demo
+  productName: dmcnabb_demo
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -721,10 +721,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 4d022af6-f3aa-48b7-aa71-d546045149bc
+  cloudProjectId: 9ac4572d-a9b9-45c5-81bd-e614bdadfe55
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: dmcnabb_kchao_demo 2026-02-08_15-35-14
+  projectName: dmcnabb_demo 2026-02-08_16-25-28
   organizationId: decembermcnabb
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
