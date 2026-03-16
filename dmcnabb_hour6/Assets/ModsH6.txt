@@ -6,18 +6,18 @@
                                                                                                                                                                   
 
 
-A. Add multiple finish zones. See if you can place them in a way that offers the player more choices. For example, a dangerous shortcut route vs an easy but lengthier one.
+A. Add multiple finish zones.  
 
+Made an easy finish hidden from the path that follows to the main finish.
 
+B. Modify the level to have more, and different hazards. (At least 2 new hazards that are not water.)  
 
-B. Modify the level to have more, and different hazards. (At least 2 new hazards that are not water.)
-
-
+Three lava zones.
 
 C. Modify the game to include an element of verticality in your game to make use of the jumping mechanic! (spacebar to jump)
 
-
+Follow the brick road up the mountain sides to the finish.
 
 D. Modify the sky and textures to create a world based on your theme.
 
-
+Dark yet lighted by lava. 
