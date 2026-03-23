@@ -2,18 +2,21 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class demoscript : MonoBehaviour
+public class demoscript2_b : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        /*print("Hello world!");
-        Debug.Log("bye");*/
+        int i = 0;
+        i++;
+        Debug.Log(i);
+        i--;
+        Debug.Log(i);
     }
 
     // Update is called once per frame
     void Update()
     {
-        //Debug.Log("-198r543jhklfjaj"); 
+        
     }
 }
