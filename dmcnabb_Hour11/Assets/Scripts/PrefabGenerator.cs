@@ -2,22 +2,32 @@
 
 public class PrefabGenerator : MonoBehaviour
 {
-	public GameObject prefab;
+    public GameObject prefab;   
 
-	void Update()
-	{
-		// Whenever we hit the B key we will generate a prefab at the
-		// position of the original prefab
-		// Whenever we hit the space key, we will generate a prefab at the
-		// position of the spawn object that this script is attached to
-		if (Input.GetKeyDown(KeyCode.B))
-		{
-			Instantiate(prefab);
-		}
+    void Start()
+    {
+        Debug.Log("=== Spawning 10 Street Lamps now ===");
 
-		if (Input.GetKeyDown(KeyCode.Space))
-		{
-			Instantiate(prefab, transform.position, transform.rotation);
-		}
-	}
+        float spacing = 0.85f;   
+
+        for (int i = 0; i < 10; i++)
+        {
+            float x = -1f + (i - 4.5f) * spacing;   
+            Vector3 spawnPosition = new Vector3(x, 0.2f, -5f);   
+            Instantiate(prefab, spawnPosition, Quaternion.identity);
+        }
+    }
+
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.B))
+        {
+            Instantiate(prefab);
+        }
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            Instantiate(prefab, transform.position, transform.rotation);
+        }
+    }
 }
