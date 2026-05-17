@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/dmcnabb_hour14/dmcnabb_hour14.unity
+    guid: b5dd07ff37d3835479b13edcc2336e7c
+  - enabled: 0
+    path: Assets/Scenes/Exercise/Game.unity
+    guid: 05ca5387e5b628240b99fca3a440cb0a
+  - enabled: 0
+    path: Assets/Scenes/Exercise/Exercise.unity
+    guid: 16d6f432bbe35a4418c1ccafea6c1c30
+  - enabled: 0
+    path: Assets/Scenes/Exercise_Game.unity
+    guid: caba52e41099f154e9bab857da2aa949
+  - enabled: 1
+    path: Assets/Scenes/dmcnabb_hour14/Instructions.unity
+    guid: 258544880bcbea148afbc55fd95007f0
+  - enabled: 1
+    path: Assets/Scenes/dmcnabb_hour14/Load File.unity
+    guid: 9b8201e90959bf640b56b39ee15dbab7
+  - enabled: 1
+    path: Assets/Scenes/dmcnabb_hour14/Options.unity
+    guid: c770e14bd3956114ca5638432f0e99e3
+  m_configObjects: {}
