@@ -16,5 +16,7 @@ Game/interface title: This was already provided for me in the picture, so I didn
     
 Game instructions or some sort of description: Hm... I'll add the screens after clicking Start, Load Game, Options. Start will turn into an instructions to play screen, but the font
 is very restrictve to colons and other symbols. &sad face&
+
+Optional stuff: Tried to make buttons to switch scenes for each button correlating for Instructions, Load, Options. No luck at this time. &sad face&
 */
 
